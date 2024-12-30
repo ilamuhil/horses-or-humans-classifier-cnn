@@ -4,7 +4,7 @@ This project implements a Convolutional Neural Network (CNN) that classifies ima
 
 ## Project Overview
 
-This project utilizes a CNN architecture to classify images. The model is trained on a dataset of images, which is organized into two main categories. After training, the model is capable of classifying new images with high accuracy.
+This project utilizes a CNN architecture to classify images. The model is trained on a dataset of images, which is organized into two main categories. The notebook includes 2 models. 1st is a custom nueral network . The 2nd is a network built on top of Googles image classifier Inception V3 model.
 
 ## Dataset
 
