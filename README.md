@@ -29,11 +29,11 @@ project_root/
 │       └── ...
 │
 └── test_images/
-├── horses/
+├── horse/
 │   ├── image1.png
 │   ├── image2.jpeg
 │   └── ...
-└── humans/
+└── human/
 ├── image1.png
 ├── image2.jpeg
 └── ...
